@@ -2,6 +2,7 @@
 <!-- saved from url=(0162)https://trello-attachments.s3.amazonaws.com/5a0a73b243870557c9f98f65/5a0af57515844a385ccb9575/4a11eeb6f0602c138354f9b53bd57670/test-article-cookied-user-java.html -->
 <html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
+
 	<meta content="width=device-width, initial-scale=1" name="viewport">
 	<link href="http://gmpg.org/xfn/11" rel="profile">
 	<link href="http://redoink.com/xmlrpc.php" rel="pingback">
@@ -15,23 +16,23 @@
 	<script type="text/javascript">
         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/redoink.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
         !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-	</script><script src="./Coffee is health food_ Myth or fact_ – Redoink_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
-	<link href="./Coffee is health food_ Myth or fact_ – Redoink_files/css" rel="stylesheet">
-	<link href="./Coffee is health food_ Myth or fact_ – Redoink_files/css(1)" rel="stylesheet">
-	<link href="./Coffee is health food_ Myth or fact_ – Redoink_files/style.css" id="colormag_style-css" media="all" rel="stylesheet" type="text/css">
-	<link href="./Coffee is health food_ Myth or fact_ – Redoink_files/bootstrap.min.css" rel="stylesheet">
-	<link href="./Coffee is health food_ Myth or fact_ – Redoink_files/adpass.min.css" rel="stylesheet">
-	<link href="./Coffee is health food_ Myth or fact_ – Redoink_files/font-awesome.css" id="colormag-fontawesome-css" media="all" rel="stylesheet" type="text/css">
-	<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/jquery.js.download" type="text/javascript">
+	</script><script src="./supportingFiles/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+	<link href="./supportingFiles/css" rel="stylesheet">
+	<link href="./supportingFiles/css(1)" rel="stylesheet">
+	<link href="./supportingFiles/style.css" id="colormag_style-css" media="all" rel="stylesheet" type="text/css">
+	<link href="./supportingFiles/bootstrap.min.css" rel="stylesheet">
+	<link href="./supportingFiles/adpass.min.css" rel="stylesheet">
+	<link href="./supportingFiles/font-awesome.css" id="colormag-fontawesome-css" media="all" rel="stylesheet" type="text/css">
+	<script src="./supportingFiles/jquery.js.download" type="text/javascript">
 	</script>
-	<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/jquery-migrate.min.js.download" type="text/javascript">
-	</script>
-
-
-	<script src="/js/3vive-adpass.js" type="text/javascript">
+	<script src="./supportingFiles/jquery-migrate.min.js.download" type="text/javascript">
 	</script>
 
-	<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/colormag-custom.js.download" type="text/javascript">
+
+	<script src="https://rawgit.com/3vive/3ViveJS/master/threevive.js" type="text/javascript">
+	</script>
+
+	<script src="./supportingFiles/colormag-custom.js.download" type="text/javascript">
 	</script>
 
 
@@ -115,7 +116,7 @@
 							<aside class="widget widget_728x90_advertisement clearfix hide" id="colormag_728x90_advertisement_widget-2">
 								<div class="advertisement_728x90">
 									<div class="advertisement-content">
-										<a class="single_ad_728x90" href="https://demo.themegrill.com/colormag-pro/" rel="nofollow" target="_blank"><img alt="" height="90" src="./Coffee is health food_ Myth or fact_ – Redoink_files/ad-large.jpg" width="728"></a>
+										<a class="single_ad_728x90" href="https://demo.themegrill.com/colormag-pro/" rel="nofollow" target="_blank"><img alt="" height="90" src="./supportingFiles/ad-large.jpg" width="728"></a>
 									</div>
 								</div>
 							</aside>
@@ -167,7 +168,7 @@
 			<div id="primary">
 				<div class="clearfix" id="content">
 					<article class="post-15 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" id="post-15">
-						<div class="featured-image"><img alt="" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" height="445" sizes="(max-width: 800px) 100vw, 800px" src="./Coffee is health food_ Myth or fact_ – Redoink_files/coffee.jpg" srcset="http://redoink.com/wp-content/uploads/2017/11/coffee.jpg 800w, http://redoink.com/wp-content/uploads/2017/11/coffee-300x167.jpg 300w, http://redoink.com/wp-content/uploads/2017/11/coffee-768x427.jpg 768w" width="800"></div>
+						<div class="featured-image"><img alt="" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" height="445" sizes="(max-width: 800px) 100vw, 800px" src="./supportingFiles/coffee.jpg" srcset="http://redoink.com/wp-content/uploads/2017/11/coffee.jpg 800w, http://redoink.com/wp-content/uploads/2017/11/coffee-300x167.jpg 300w, http://redoink.com/wp-content/uploads/2017/11/coffee-768x427.jpg 768w" width="800"></div>
 						<div class="article-content clearfix">
 							<div class="above-entry-meta">
 								<span class="cat-links"><a href="http://redoink.com/category/uncategorized/" rel="category tag">Uncategorized</a>&nbsp;</span>
@@ -182,21 +183,21 @@
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac justo leo. Integer condimentum fermentum dolor, eget condimentum ante ornare vitae. Phasellus fringilla turpis nec nulla mollis consectetur. Ut eu velit felis. Etiam vel felis aliquam, lacinia augue quis, ornare lorem. Suspendisse iaculis metus eu ornare posuere. Nulla ac quam vehicula, rutrum erat nec, condimentum sapien. Donec quis elit sed tortor ornare cursus. Nam ut neque massa. Duis ligula risus, lacinia eget faucibus non, elementum a magna. Curabitur aliquet ex id bibendum dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur ut metus tortor. Proin hendrerit porttitor metus, eu aliquet massa hendrerit pulvinar. Sed nisl dui, vehicula in congue ut, finibus non lectus.</p>
 								<p>Nam quis eros at ex porta tincidunt. Curabitur vel tincidunt tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Suspendisse non imperdiet leo, eget ullamcorper lorem. Aenean aliquet ultricies turpis volutpat suscipit. Cras sit amet magna nec arcu luctus viverra ut ut ex. Nullam in nibh vitae dui luctus auctor. Pellentesque sit amet hendrerit sem. Integer aliquam interdum ipsum, id volutpat ante elementum vitae.</p>
 
-								<%--<div class="paywallButtons">--%>
-									<%--<div class="buttonBordersTop"></div>--%>
-									<%--<button th:if="${#bools.isFalse(paid)}" class="btn btn-secondary" type="button">--%>
-										<%--Continue with Ads--%>
-									<%--</button>--%>
-									<%--<button class="btn btn-primary hide" data-target="#myModal.bd-example-modal-lg" data-toggle="modal" type="button" sec:authorize="!isAuthenticated()">--%>
-										<%--Sign-Up for ADpass--%>
-									<%--</button>--%>
-									<%--<button class="btn btn-primary2" type="button" onclick="window.location.href=&#39;/pay&#39;">--%>
-										<%--Pay with AdPass--%>
-									<%--</button>--%>
-									<%--<div class="buttonBordersBottom">--%>
-										<%--<div class="wallet"><span>Wallet: $5.00</span></div>--%>
-									<%--</div>--%>
-								<%--</div><!-- Modal -->--%>
+								<div class="paywallButtons">
+									<div class="buttonBordersTop"></div>
+									<button class="btn btn-secondary" type="button">
+										Continue with Ads
+									</button>
+									<button class="btn btn-primary hide" data-target="#myModal.bd-example-modal-lg" data-toggle="modal" type="button" sec:authorize="!isAuthenticated()">
+										Sign-Up for ADpass
+									</button>
+									<button class="btn btn-primary2" type="button" onclick="window.location.href=&#39;/pay&#39;">
+										Pay with AdPass
+									</button>
+									<div class="buttonBordersBottom">
+										<div class="wallet"><span>Wallet: $5.00</span></div>
+									</div>
+								</div><!-- Modal -->
 
 								<div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade bd-example-modal-lg" id="myModal" role="dialog" tabindex="-1">
 									<div class="modal-dialog modal-lg" role="document">
@@ -244,7 +245,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="paywallTrunk blur" >
+							<div class="paywallTrunk blur">
 								<p>Cras lobortis placerat tortor, et porttitor lacus vestibulum ac. Suspendisse volutpat tristique semper. Fusce convallis tortor eu eros tempor imperdiet. Donec porttitor ligula congue mauris semper feugiat. Nulla vitae gravida neque. Vestibulum vel odio finibus erat porttitor consectetur eget convallis justo. Cras fermentum convallis dui ac rhoncus. Mauris aliquet nibh sagittis mi faucibus luctus. Nulla fringilla placerat ex ut condimentum. Morbi quam mi, pharetra ac vehicula ac, tempus quis nulla. Aenean laoreet, nisi malesuada convallis sagittis, justo sem tempus diam, at consectetur diam diam vitae velit. Nulla lacinia odio quis egestas rhoncus. In turpis arcu, feugiat a congue eu, venenatis vel sem. Nunc aliquet ut orci ut venenatis. Ut tortor turpis, pulvinar commodo posuere vel, iaculis vitae magna.</p>
 								<p>Fusce et arcu in lectus feugiat pulvinar quis in diam. Nulla facilisi. Curabitur vulputate sollicitudin consectetur. Pellentesque malesuada ac velit nec iaculis. Etiam nec elementum sapien. Vestibulum ut maximus massa, non ullamcorper nibh. Quisque tristique, ipsum sit amet convallis ultrices, justo leo porttitor quam, a vehicula odio leo vitae quam.</p>
 								<p>Nam vitae justo sit amet enim pellentesque blandit eget non massa. Cras imperdiet porttitor consequat. Nunc neque libero, condimentum eu augue et, tempor malesuada nibh. Proin velit metus, ultrices quis pretium eget, blandit vulputate mauris. Aenean sollicitudin pretium magna sed ultrices. Pellentesque ut est magna. Donec cursus vehicula diam, at vulputate dui tincidunt et. Donec id efficitur diam. Ut a facilisis diam. Nulla mollis risus vel lorem maximus dapibus. Aenean vitae sapien massa. Ut et ante turpis. Duis egestas erat tortor, eu vulputate ex dapibus sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus neque quam, sit amet rhoncus urna tincidunt vitae.</p>
@@ -268,7 +269,7 @@
 			<div class="related-posts clearfix">
 				<div class="single-related-posts">
 					<div class="related-posts-thumbnail">
-						<a href="http://redoink.com/2017/11/03/womens-relay-competition/" title="Women’s Relay Competition"><img alt="" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" src="./Coffee is health food_ Myth or fact_ – Redoink_files/relay-race-390x205.jpg" width="390"></a>
+						<a href="http://redoink.com/2017/11/03/womens-relay-competition/" title="Women’s Relay Competition"><img alt="" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" src="./supportingFiles/relay-race-390x205.jpg" width="390"></a>
 					</div>
 					<div class="article-content">
 						<h3 class="entry-title"><a href="http://redoink.com/2017/11/03/womens-relay-competition/" rel="bookmark" title="Women’s Relay Competition">Women’s Relay Competition</a></h3><!--/.post-title-->
@@ -279,7 +280,7 @@
 				</div><!--/.related-->
 				<div class="single-related-posts">
 					<div class="related-posts-thumbnail">
-						<a href="http://redoink.com/2017/11/03/destruction-in-montania/" title="Destruction in Montania"><img alt="" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" src="./Coffee is health food_ Myth or fact_ – Redoink_files/fireman-390x205.jpg" width="390"></a>
+						<a href="http://redoink.com/2017/11/03/destruction-in-montania/" title="Destruction in Montania"><img alt="" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" src="./supportingFiles/fireman-390x205.jpg" width="390"></a>
 					</div>
 					<div class="article-content">
 						<h3 class="entry-title"><a href="http://redoink.com/2017/11/03/destruction-in-montania/" rel="bookmark" title="Destruction in Montania">Destruction in Montania</a></h3><!--/.post-title-->
@@ -290,7 +291,7 @@
 				</div><!--/.related-->
 				<div class="single-related-posts">
 					<div class="related-posts-thumbnail">
-						<a href="http://redoink.com/2017/11/03/get-more-nutrition-in-every-bite/" title="Get more nutrition in every bite"><img alt="" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" src="./Coffee is health food_ Myth or fact_ – Redoink_files/yummy-390x205.jpg" width="390"></a>
+						<a href="http://redoink.com/2017/11/03/get-more-nutrition-in-every-bite/" title="Get more nutrition in every bite"><img alt="" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" src="./supportingFiles/yummy-390x205.jpg" width="390"></a>
 					</div>
 					<div class="article-content">
 						<h3 class="entry-title"><a href="http://redoink.com/2017/11/03/get-more-nutrition-in-every-bite/" rel="bookmark" title="Get more nutrition in every bite">Get more nutrition in every bite</a></h3><!--/.post-title-->
@@ -323,7 +324,7 @@
 				<div class="first-post">
 					<div class="single-article clearfix">
 						<figure>
-							<a href="http://redoink.com/2017/11/03/destruction-in-montania/" title="Destruction in Montania"><img alt="Destruction in Montania" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" src="./Coffee is health food_ Myth or fact_ – Redoink_files/fireman-390x205.jpg" title="Destruction in Montania" width="390"></a>
+							<a href="http://redoink.com/2017/11/03/destruction-in-montania/" title="Destruction in Montania"><img alt="Destruction in Montania" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" src="./supportingFiles/fireman-390x205.jpg" title="Destruction in Montania" width="390"></a>
 						</figure>
 						<div class="article-content">
 							<div class="above-entry-meta">
@@ -342,7 +343,7 @@
 				<div class="following-post">
 					<div class="single-article clearfix">
 						<figure>
-							<a href="http://redoink.com/2017/11/03/a-paradise-for-holiday/" title="A Paradise for Holiday"><img alt="A Paradise for Holiday" class="attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" height="90" sizes="(max-width: 130px) 100vw, 130px" src="./Coffee is health food_ Myth or fact_ – Redoink_files/sea-130x90.jpg" srcset="http://redoink.com/wp-content/uploads/2017/11/sea-130x90.jpg 130w, http://redoink.com/wp-content/uploads/2017/11/sea-392x272.jpg 392w" title="A Paradise for Holiday" width="130"></a>
+							<a href="http://redoink.com/2017/11/03/a-paradise-for-holiday/" title="A Paradise for Holiday"><img alt="A Paradise for Holiday" class="attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" height="90" sizes="(max-width: 130px) 100vw, 130px" src="./supportingFiles/sea-130x90.jpg" srcset="http://redoink.com/wp-content/uploads/2017/11/sea-130x90.jpg 130w, http://redoink.com/wp-content/uploads/2017/11/sea-392x272.jpg 392w" title="A Paradise for Holiday" width="130"></a>
 						</figure>
 						<div class="article-content">
 							<div class="above-entry-meta">
@@ -393,7 +394,7 @@
 						<h3 class="widget-title"><span>TG: 125x125 Ads</span></h3>
 					</div>
 					<div class="advertisement-content">
-						<a class="single_ad_125x125" href="https://themegrill.com/" rel="nofollow" target="_blank"><img alt="" height="125" src="./Coffee is health food_ Myth or fact_ – Redoink_files/ad-small.jpg" width="125"></a> <a class="single_ad_125x125" href="https://themegrill.com/" rel="nofollow" target="_blank"><img alt="" height="125" src="./Coffee is health food_ Myth or fact_ – Redoink_files/ad-small.jpg" width="125"></a> <a class="single_ad_125x125" href="https://themegrill.com/" rel="nofollow" target="_blank"><img alt="" height="125" src="./Coffee is health food_ Myth or fact_ – Redoink_files/ad-small.jpg" width="125"></a> <a class="single_ad_125x125" href="https://themegrill.com/" rel="nofollow" target="_blank"><img alt="" height="125" src="./Coffee is health food_ Myth or fact_ – Redoink_files/ad-small.jpg" width="125"></a>
+						<a class="single_ad_125x125" href="https://themegrill.com/" rel="nofollow" target="_blank"><img alt="" height="125" src="./supportingFiles/ad-small.jpg" width="125"></a> <a class="single_ad_125x125" href="https://themegrill.com/" rel="nofollow" target="_blank"><img alt="" height="125" src="./supportingFiles/ad-small.jpg" width="125"></a> <a class="single_ad_125x125" href="https://themegrill.com/" rel="nofollow" target="_blank"><img alt="" height="125" src="./supportingFiles/ad-small.jpg" width="125"></a> <a class="single_ad_125x125" href="https://themegrill.com/" rel="nofollow" target="_blank"><img alt="" height="125" src="./supportingFiles/ad-small.jpg" width="125"></a>
 					</div>
 				</div>
 			</aside>
@@ -409,7 +410,7 @@
 						<aside class="widget widget_text clearfix" id="text-3">
 							<h3 class="widget-title"><span>About Us</span></h3>
 							<div class="textwidget">
-								<a href="http://redoink.com/" title="logo"><img alt="Logo" src="./Coffee is health food_ Myth or fact_ – Redoink_files/colormag-logo.png"></a><br>
+								<a href="http://redoink.com/" title="logo"><img alt="Logo" src="./supportingFiles/colormag-logo.png"></a><br>
 								We love WordPress and we are here to provide you with professional looking WordPress themes so that you can take your website one step ahead. We focus on simplicity, elegant design and clean code.
 							</div>
 						</aside>
@@ -492,7 +493,7 @@
 									<h3 class="widget-title"><span>ColorMag Pro</span></h3>
 								</div>
 								<div class="advertisement-content">
-									<a class="single_ad_300x250" href="https://demo.themegrill.com/colormag-pro/" rel="nofollow" target="_blank"><img alt="" height="250" src="./Coffee is health food_ Myth or fact_ – Redoink_files/ad-medium.jpg" width="300"></a>
+									<a class="single_ad_300x250" href="https://demo.themegrill.com/colormag-pro/" rel="nofollow" target="_blank"><img alt="" height="250" src="./supportingFiles/ad-medium.jpg" width="300"></a>
 								</div>
 							</div>
 						</aside>
@@ -544,36 +545,36 @@
 	</div>
 </footer>
 <a href="https://trello-attachments.s3.amazonaws.com/5a0a73b243870557c9f98f65/5a0af57515844a385ccb9575/4a11eeb6f0602c138354f9b53bd57670/test-article-cookied-user-java.html#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a> <!-- #page -->
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/comment-reply.min.js.download" type="text/javascript">
+<script src="./supportingFiles/comment-reply.min.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/jquery.bxslider.min.js.download" type="text/javascript">
+<script src="./supportingFiles/jquery.bxslider.min.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/colormag-slider-setting.js.download" type="text/javascript">
+<script src="./supportingFiles/colormag-slider-setting.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/navigation.js.download" type="text/javascript">
+<script src="./supportingFiles/navigation.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/jquery.newsTicker.min.js.download" type="text/javascript">
+<script src="./supportingFiles/jquery.newsTicker.min.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/ticker-setting.js.download" type="text/javascript">
+<script src="./supportingFiles/ticker-setting.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/jquery.sticky.js.download" type="text/javascript">
+<script src="./supportingFiles/jquery.sticky.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/sticky-setting.js.download" type="text/javascript">
+<script src="./supportingFiles/sticky-setting.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/jquery.fitvids.js.download" type="text/javascript">
+<script src="./supportingFiles/jquery.fitvids.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/fitvids-setting.js.download" type="text/javascript">
+<script src="./supportingFiles/fitvids-setting.js.download" type="text/javascript">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/wp-embed.min.js.download" type="text/javascript">
+<script src="./supportingFiles/wp-embed.min.js.download" type="text/javascript">
 </script>
-<script async="async" src="./Coffee is health food_ Myth or fact_ – Redoink_files/form.js.download" type="text/javascript">
+<script async="async" src="./supportingFiles/form.js.download" type="text/javascript">
 </script> <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/jquery-3.2.1.slim.min.js.download">
+<script src="./supportingFiles/jquery-3.2.1.slim.min.js.download">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/popper.min.js.download">
+<script src="./supportingFiles/popper.min.js.download">
 </script>
-<script src="./Coffee is health food_ Myth or fact_ – Redoink_files/bootstrap.min.js.download">
+<script src="./supportingFiles/bootstrap.min.js.download">
 </script> <!--modal-->
 
 <script>
@@ -585,12 +586,10 @@
         $('.widget_728x90_advertisement').removeClass("hide");
         $('.widget_125x125_advertisement').removeClass("hide");
     });
-
     $('.submitBTN').on('click', function() {
         $('.btn-primary').addClass("hide");
         $('.btn-primary2').removeClass("hide");
     });
-
     $('.btn-primary2').on('click', function(e) {
         // $('.paywallTrunk').removeClass("blur"); //you can list several class names
         // $('.btn-secondary').addClass("hide");
