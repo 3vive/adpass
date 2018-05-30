@@ -223,7 +223,7 @@
             //data.append("json",JSON.stringify(payload); )
 
             console.log(payload);
-            fetch(hostUrl + '/api/v1/users/register?partnerName=NYDN', {
+            fetch(hostUrl + '/api/v1/users/register', {
                 headers: {
                     'Accept': 'application/json',
                     'Content-Type': 'application/json',
