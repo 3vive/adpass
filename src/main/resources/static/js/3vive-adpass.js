@@ -266,30 +266,47 @@
 
             alert("Logging user")
 
-            if ((payload.usernamername != null || payload.username != "") && (payload.password != null || payload.password != "")) {
-                fetch(hostUrl + '/api/Login', {
+            if ((payload.username != null || payload.username != "") && (payload.password != null || payload.password != "")) {
+                var api = hostUrl + '/api/v1/users/user/' + payload.username;
+
+                fetch(api, {
                     headers: {
                         'Accept': 'application/json',
-                        'Content-Type': 'application/json'
+                        'Content-Type': 'application/json',
+                        'Authorization': 'Basic ' + btoa(payload.username + ":" + payload.password),
+
                     },
-                    method: 'POST',
-                    body: JSON.stringify(payload)
+                    credentials: "include",
+                    method: 'GET'
                 }).then(function (response) {
+                    alert(response);
                     return response.json();
-                }).then(function (loginUser) {
-                    console.log(loginUser);
-                    debugger;
-                    _threeViveObject.newUser = loginUser;
-                })
+                }).then(
+                    function (data) {
+                        console.log(data);
+                    }
+                )
             }
 
 
         }
 
         _threeViveObject.getUserInfo = function (username, password) {
-            fetch(hostUrl + '/api/v1/users/' + username).then(function (thisUser) {
-                console.log(thisUser);
-            })
+            alert("getUserInfo");
+            var myheaders = {
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                }
+            }
+            var url = hostUrl + '/api/v1/users/user/' + username;
+            alert(url);
+            fetch(url, myheaders).then(function (thisUser) {
+                alert(thisUser.json())
+                console.log("Logging the user" + thisUser);
+            });
+
+
         }
 
         // Just create a property to our library object.
@@ -298,7 +315,7 @@
             console.log("Log > Is number : " + !isNaN(thingToLog));
             console.log("Log > Length : " + (thingToLog).length);
 
-            return console.log(thingToLog);
+            return console.log(thingToLog.toJSON());
         };
 
         return _threeViveObject;
