@@ -204,7 +204,7 @@
 
         try
         {
-            new ADPassStripe('pk_test_QQdoP5IFrqLYmzAwjzSBysB5', 'k_test_3JJPqH6kKVJeu2K7H9LQlAgV');
+            new ADPassStripe('pk_test_QQdoP5IFrqLYmzAwjzSBysB5');
         }
         catch (e)
         {
