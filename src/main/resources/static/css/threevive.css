@@ -42,3 +42,7 @@
 #ViveButtons input[type="button"] {
     width:31% !important;
     float:left !important;}
+}
+#ViveButtons input[type="button"]:hover {
+   opacity: .5;
+}
