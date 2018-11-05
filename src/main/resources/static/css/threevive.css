@@ -39,16 +39,16 @@
     from {bottom: 30px; opacity: 1;}
     to {bottom: 0; opacity: 0;}
 }
-#ViveButtons input[type="button"]:hover {
-   opacity: 0.5;
-}
 #ViveButtons input[type="button"] {
     width:32% !important;
     float:left !important;
 }
+#ViveButtons input[type="button"]:hover {
+   opacity: .5;
+}
 @media only screen and (max-width: 1182px) {
     #ViveButtons input[type="button"] {
     width:95% !important;
-    float:none !important;}
+    float:none !important;
     }
 }
