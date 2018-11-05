@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"c",
+				"center"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 149.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rurtheil/Desktop/pass/test.html",
+		"/Users/rurtheil/Desktop/untitled folder/threevive.js",
+		"/Users/rurtheil/Desktop/untitled folder/threevive.css",
+		"/Users/rurtheil/Desktop/untitled folder/3vtest.html",
+		"/Users/rurtheil/Desktop/untitled folder/adpass.css",
+		"/Users/rurtheil/Desktop/3vtest-B.html",
+		"/Users/rurtheil/Desktop/adpass_stripe_test.html",
+		"/Users/rurtheil/Desktop/payment.html",
+		"/Users/rurtheil/Desktop/header.html",
+		"/Users/rurtheil/Desktop/footer.html",
+		"/Users/rurtheil/Desktop/full-wrapper.html",
+		"/Users/rurtheil/Desktop/footer-code-7.2573576.html",
+		"/Users/rurtheil/Desktop/test.html",
+		"/Users/rurtheil/Desktop/rh.js",
+		"/Users/rurtheil/Downloads/app.xml",
+		"/Users/rurtheil/Desktop/faq.html",
+		"/Users/rurtheil/Desktop/thor/test-article-new-user.html",
+		"/Users/rurtheil/Desktop/thor/test-article-cookied-user-V2.html",
+		"/Users/rurtheil/Desktop/thor/adpass.css",
+		"/Users/rurtheil/Downloads/RE  NYDN GA Migration Phase 3 (1).msg",
+		"/Users/rurtheil/Downloads/article-reg.html",
+		"/Users/rurtheil/Downloads/nydn_example_player.html",
+		"/Users/rurtheil/Downloads/article-regv2.html",
+		"/Users/rurtheil/Desktop/thor/adpass.min.css",
+		"/Users/rurtheil/Desktop/thor/article-regv2.html",
+		"/Users/rurtheil/Desktop/thor/test-article-cookied-user-java.html",
+		"/Users/rurtheil/Desktop/thor/test-article-cookied-user.html",
+		"/Users/rurtheil/Desktop/thor/adpass-v2.css",
+		"/Users/rurtheil/Desktop/thor/adpass-v2.min.css",
+		"/Users/rurtheil/Desktop/thor/adpass-fullsite-markup.html",
+		"/Users/rurtheil/Desktop/thor/article.css",
+		"/Users/rurtheil/Desktop/dss.html",
+		"/Users/rurtheil/Desktop/thor/test-article.html",
+		"/Users/rurtheil/Desktop/thor/bootstrap-modal.html",
+		"/Users/rurtheil/Desktop/thor/mod-markup.html",
+		"/Users/rurtheil/Desktop/thor/test-thor (2).html",
+		"/Users/rurtheil/Desktop/sponsored",
+		"/Users/rurtheil/Desktop/amp.html",
+		"/Users/rurtheil/Desktop/test-thor copy.html",
+		"/Users/rurtheil/Desktop/test-thor.html",
+		"/Users/rurtheil/Desktop/ampCaro.html",
+		"/Users/rurtheil/Desktop/ampCaro copy.html",
+		"/Users/rurtheil/Downloads/ampCaro.html",
+		"/Users/rurtheil/Desktop/caro-lightbox-ad.html",
+		"/Users/rurtheil/Downloads/test.html",
+		"/Users/rurtheil/Desktop/ampCaro-2.html",
+		"/Users/rurtheil/Desktop/www.nydailynews.com.har",
+		"/Users/rurtheil/Desktop/youtube.html",
+		"/Users/rurtheil/Desktop/nydn.Image.xml",
+		"/images.xml",
+		"/Users/rurtheil/Downloads/Urban-Airship-Web-Notify (2)/push-worker.js",
+		"/Users/rurtheil/Downloads/Urban-Airship-Web-Notify/snippet.html",
+		"/Users/rurtheil/Downloads/snippet.html",
+		"/Users/rurtheil/Downloads/Urban-Airship-Web-Notify (2)/snippet.html",
+		"/Users/rurtheil/Desktop/newsletterfeb21.html",
+		"/Users/rurtheil/Desktop/NEWSLETTER (April).html",
+		"/Users/rurtheil/Desktop/Embargoed (HFR).xml",
+		"/Users/rurtheil/Desktop/New York Horoscopes by Madalyn Aslan - NY Daily News.html",
+		"/parallex.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
