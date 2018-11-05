@@ -24,7 +24,7 @@ if (location.hostname === "localhost") {
         link.id   = cssId;
         link.rel  = 'stylesheet';
         link.type = 'text/css';
-        link.href = 'https://raw.githubusercontent.com/3vive/adpass/master/src/main/resources/static/css/threevive.css';
+        link.href = 'http://app.3vive.com:8080/css/threevive.css';
         link.media = 'all';
         head.appendChild(link);
     }
