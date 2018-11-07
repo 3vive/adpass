@@ -46,9 +46,31 @@
 #ViveButtons input[type="button"]:hover {
    opacity: .5;
 }
+
+/* Desktop small */
 @media only screen and (max-width: 1182px) {
     #ViveButtons input[type="button"] {
     width:95% !important;
     float:none !important;
     }
 }
+
+
+/* tablet portrait */
+@media only screen and (max-width: 1024px) {
+
+    #popUpAdPassDiv{
+        width: 60%;
+    }
+
+}
+
+/* Mobile portrait */
+@media only screen and (max-width: 414px) {
+
+    #popUpAdPassDiv{
+        width: 80%;
+    }
+
+}
+
