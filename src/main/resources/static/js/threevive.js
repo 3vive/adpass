@@ -14,6 +14,7 @@ if (location.hostname === "localhost") {
   function threeVive() {
     var _threeViveObject = {};
     var cssId = 'myCss';
+<<<<<<< HEAD
     if (!document.getElementById(cssId)) {
       var head = document.getElementsByTagName('head')[0];
       var link = document.createElement('link');
@@ -23,6 +24,18 @@ if (location.hostname === "localhost") {
       link.href = 'https://raw.githack.com/3vive/adpass/master/src/main/resources/static/css/threevive.css';
       link.media = 'all';
       head.appendChild(link);
+=======
+    if (!document.getElementById(cssId))
+    {
+        var head  = document.getElementsByTagName('head')[0];
+        var link  = document.createElement('link');
+        link.id   = cssId;
+        link.rel  = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'https://raw.githack.com/3vive/adpass/master/src/main/resources/static/css/threevive.css';
+        link.media = 'all';
+        head.appendChild(link);
+>>>>>>> 09af388cc769f9bdfad8e96aff54b248587424d3
     }
     var currentACBal;
     //Generate the iframe in parent window
