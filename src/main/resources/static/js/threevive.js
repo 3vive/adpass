@@ -67,7 +67,7 @@ if (location.hostname === "localhost") {
       var buttonDiv = document.createElement('div');
       buttonDiv.id = "ViveButtons";
       buttonDiv.style.textAlign = "center";
-      buttonDiv.innerHTML = "<div style='border-top:1px solid #129979;border-right: 1px solid #129979;border-left: 1px solid #129979;margin:auto;width:90%;height:23px'><div style='color:#129979;background-color:#fff;width:100px;margin: -14px auto'>ADPASS</div></div>" + "<input type='button' onclick='threeVive.scrollTrigger();' value='Login' style='" + btnStyles + "' />" + "<input type='button' onclick='threeVive.registerButton();' value='Registration' style='" + btnStyles + "' />" + "<input type='button' onclick='threeVive.loadAllAdRevenue();' value='Free with ADs' style='" + btnStylesInverse + "' />" + "<div style='border-bottom:1px solid #129979;border-right: 1px solid #129979;border-left: 1px solid #129979;margin:auto;width:90%;height:23px;clear:both;margin-bottom:30px'></div>";
+      buttonDiv.innerHTML = "<div style='border-top:1px solid #129979;border-right: 1px solid #129979;border-left: 1px solid #129979;margin:auto;width:90%;height:23px'><div style='color:#129979;background-color:#fff;width:100px;margin: -14px auto'>ADPASS</div></div>" + "<input type='button' onclick='threeVive.scrollTrigger();' value='Login' style='" + btnStyles + "' />" + "<input type='button' onclick='threeVive.registerButton();' value='Registration' style='" + btnStyles + "' />" + "<input type='button' onclick='threeVive.loadAllAdRevenue();' value='Free with ADs' style='" + btnStylesInverse + "' />" + "<div id='borderBottom' style='border-bottom:1px solid #129979;border-right: 1px solid #129979;border-left: 1px solid #129979;margin:auto;width:90%;height:23px;clear:both;margin-bottom:30px'></div>";
       //debugger;
       var whereToAppendButtons = document.getElementsByClassName("paywallButtons")[0];
       whereToAppendButtons.appendChild(buttonDiv);
@@ -86,8 +86,8 @@ if (location.hostname === "localhost") {
       //document.body.style.background = "url('https://cdn.lennar.net/images/com/images/new-homes/3/63/mhi/El%20Dorado%20Hills%20Sunset-1200x540.jpg?w=1200&h=540&as=1 no-repeat";
       //document.body.style.backgroundSize = "cover";
       centeredDiv.style.padding = '10px';
-      centeredDiv.style.position = 'fixed';
-      centeredDiv.style.zIndex = 999;
+      //centeredDiv.style.position = 'fixed';
+      //centeredDiv.style.zIndex = 999;
       centeredDiv.style.left = 0;
       centeredDiv.style.top = 0;
       centeredDiv.style.width = '100%';
@@ -97,7 +97,7 @@ if (location.hostname === "localhost") {
       // set main-div styles
       div.style.background = "#129979";
       div.style.width = '300px';
-      div.style.margin = '30px auto';
+      div.style.margin = '0px auto';
       div.style.padding = '10px';
       div.style.borderRadius = '10px';
       div.style.borderTop = "0px #129979 solid";
@@ -107,7 +107,7 @@ if (location.hostname === "localhost") {
       //  div.style.position = 'fixed';
       div.style.left = 0;
       div.style.top = 0;
-      div.style.width = '40%';
+      div.style.width = '100%';
       div.style.overflow = 'auto';
       div.style.paddingBottom = '20px';
       div.innerHTML = '<button type="button" id="closeButton" onclick="threeVive.closePopup()" style="background-color:#129979; margin-left:80%;width:8%;"> X</button> <h1 style="text-align: center;color:white;font-family: Helvetica Neue, sans-serif;font-weight: bold;letter-spacing: -1px;font-style: italic; font-size: 28px; padding-bottom:0;margin-top:-32px"><img src="https://image.flaticon.com/icons/svg/74/74474.svg" width="30px" height="30px"> Ad Pass</h1>';
@@ -124,8 +124,9 @@ if (location.hostname === "localhost") {
       //    leftLoginDiv.style.borderRight = "2px #129979 solid";
       div.appendChild(registrationForm);
       centeredDiv.appendChild(div);
-      // append main-div on the body
-      document.body.appendChild(centeredDiv);
+      // append main-div to primary column
+      document.getElementById("borderBottom").appendChild(centeredDiv);
+      document.getElementById("borderBottom").style.height = "auto";
       //  window.removeEventListener("scroll", _threeViveObject.scrollTrigger);
     }
     _threeViveObject.scrollTrigger = function() {
@@ -145,8 +146,8 @@ if (location.hostname === "localhost") {
         //document.body.style.background = "url('https://cdn.lennar.net/images/com/images/new-homes/3/63/mhi/El%20Dorado%20Hills%20Sunset-1200x540.jpg?w=1200&h=540&as=1 no-repeat";
         //document.body.style.backgroundSize = "cover";
         centeredDiv.style.padding = '10px';
-        centeredDiv.style.position = 'fixed';
-        centeredDiv.style.zIndex = 999;
+        //centeredDiv.style.position = 'fixed';
+        //centeredDiv.style.zIndex = 999;
         centeredDiv.style.left = 0;
         centeredDiv.style.top = 0;
         centeredDiv.style.width = '100%';
@@ -156,7 +157,7 @@ if (location.hostname === "localhost") {
         // set main-div styles
         div.style.background = "#129979";
         div.style.width = '300px';
-        div.style.margin = '30px auto';
+        div.style.margin = '0px auto';
         div.style.padding = '10px';
         div.style.borderRadius = '10px';
         div.style.borderTop = "0px #129979 solid";
@@ -166,7 +167,7 @@ if (location.hostname === "localhost") {
         //  div.style.position = 'fixed';
         div.style.left = 0;
         div.style.top = 0;
-        div.style.width = '40%';
+        div.style.width = '100%';
         div.style.overflow = 'auto';
         div.innerHTML = '<button type="button" id="closeButton" onclick="threeVive.closePopup()" style="background-color:#129979; margin-left:80%;width:8%;"> X</button> <h1 style="text-align: center;color:white;font-family: Helvetica Neue, sans-serif;font-weight: bold;letter-spacing: -1px;font-style: italic; font-size: 28px; padding-bottom:0;margin-top:-32px"><img src="https://image.flaticon.com/icons/svg/74/74474.svg" width="30px" height="30px"> Ad Pass</h1>';
         // hide login form and show register form
@@ -204,7 +205,8 @@ if (location.hostname === "localhost") {
         }
         centeredDiv.appendChild(div);
         // append main-div on the body
-        document.body.appendChild(centeredDiv);
+        document.getElementById("borderBottom").appendChild(centeredDiv);
+        document.getElementById("borderBottom").style.height = "auto";
         window.removeEventListener("scroll", _threeViveObject.scrollTrigger);
       }
     }
@@ -226,6 +228,7 @@ if (location.hostname === "localhost") {
     _threeViveObject.closePopup = function() {
       var element = document.getElementById('mContainer');
       element.parentNode.removeChild(element);
+      document.getElementById("borderBottom").style.height = "23px";
     }
     _threeViveObject.validateForm = function() {
       var usr = document.getElementById('adPassUserNameReg');
