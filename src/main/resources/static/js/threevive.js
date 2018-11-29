@@ -20,8 +20,8 @@ if (location.hostname === "localhost") {
       link.id = cssId;
       link.rel = 'stylesheet';
       link.type = 'text/css';
-      link.href = 'css/threevive.css';
-      //link.href = 'https://raw.githack.com/3vive/adpass/master/src/main/resources/static/css/threevive.css';
+      //link.href = 'css/threevive.css';
+      link.href = 'https://raw.githack.com/3vive/adpass/master/src/main/resources/static/css/threevive.css';
       link.media = 'all';
       head.appendChild(link);
     }
