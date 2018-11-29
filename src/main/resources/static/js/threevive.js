@@ -76,6 +76,8 @@ if (location.hostname === "localhost") {
                               "<input type='button' onclick='threeVive.loadAllAdRevenue();' value='Free with ADs' style='" + btnStylesInverse + "' />" + 
                               //"<div id='walletButCont'><input type='button' id='walletBut' onclick='threeVive.loadAllAdRevenue();' value='Pay using ADPASS' style='" + btnStylesWallet + "' />my wallet</div>" + 
                             "<div id='borderBottom' style='margin:auto;width:90%;height:23px;clear:both'>Continue reading content by clicking any of the options above. Using ADPASS is a quick and easy way to avoid the hassle of Advertising and Tracking while maintaining your privacy.</div>";
+      buttonDiv.innerHTML = "<div style='border-top:1px solid #129979;border-right: 1px solid #129979;border-left: 1px solid #129979;margin:auto;width:90%;height:23px'><div style='color:#129979;background-color:#fff;width:100px;margin: -14px auto'>ADPASS</div></div>" + "<input type='button' onclick='threeVive.scrollTrigger();' value='Login' style='" + btnStyles + "' />" + "<input type='button' onclick='threeVive.registerButton();' value='Registration' style='" + btnStyles + "' />" + "<input type='button' onclick='threeVive.loadAllAdRevenue();' value='Free with ADs' style='" + btnStylesInverse + "' />" + "<div id='borderBottom' style='border-bottom:1px solid #129979;border-right: 1px solid #129979;border-left: 1px solid #129979;margin:auto;width:90%;height:23px;clear:both;margin-bottom:30px'></div>";
+
       //debugger;
       var whereToAppendButtons = document.getElementsByClassName("paywallButtons")[0];
       whereToAppendButtons.appendChild(buttonDiv);

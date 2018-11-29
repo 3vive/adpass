@@ -46,7 +46,6 @@
 #ViveButtons input[type="button"]:hover {
    opacity: .5;
 }
-
 #walletButCont {
     border-radius: 15px;
     border: solid 1px #129979;
