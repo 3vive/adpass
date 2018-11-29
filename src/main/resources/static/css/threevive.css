@@ -41,14 +41,53 @@
 }
 #ViveButtons input[type="button"] {
     width:32% !important;
-    float:left !important;
+
 }
 #ViveButtons input[type="button"]:hover {
    opacity: .5;
 }
+
+#walletButCont {
+    border-radius: 15px;
+    border: solid 1px #129979;
+    display: inline-flex;
+    padding-right: 5px;
+    margin-bottom: 0px !important;
+}
+#walletBut {
+    border-radius: 15px;
+}
+
+.paywallTrunk {
+    background: linear-gradient(to bottom, #888 0%, #fff 10%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Desktop small */
 @media only screen and (max-width: 1182px) {
     #ViveButtons input[type="button"] {
     width:95% !important;
     float:none !important;
     }
 }
+
+
+/* tablet portrait */
+@media only screen and (max-width: 1024px) {
+
+    #popUpAdPassDiv{
+        width: 60%;
+    }
+
+}
+
+/* Mobile portrait */
+@media only screen and (max-width: 414px) {
+
+    #popUpAdPassDiv{
+        width: 80%;
+    }
+
+}
+
