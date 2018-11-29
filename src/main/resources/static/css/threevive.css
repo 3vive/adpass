@@ -41,10 +41,26 @@
 }
 #ViveButtons input[type="button"] {
     width:32% !important;
-    float:left !important;
+
 }
 #ViveButtons input[type="button"]:hover {
    opacity: .5;
+}
+#walletButCont {
+    border-radius: 15px;
+    border: solid 1px #129979;
+    display: inline-flex;
+    padding-right: 5px;
+    margin-bottom: 0px !important;
+}
+#walletBut {
+    border-radius: 15px;
+}
+
+.paywallTrunk {
+    background: linear-gradient(to bottom, #888 0%, #fff 10%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 /* Desktop small */
