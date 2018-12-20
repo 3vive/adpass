@@ -178,7 +178,7 @@ if (location.hostname === "localhost") {
         div.innerHTML = '<button type="button" id="closeButton" onclick="threeVive.closePopup()" style="background-color:#129979; margin-left:80%;width:8%;"> X</button> <h1 style="text-align: center;color:white;font-family: Helvetica Neue, sans-serif;font-weight: bold;letter-spacing: -1px;font-style: italic; font-size: 28px; padding-bottom:0;margin-top:-32px"><img src="https://image.flaticon.com/icons/svg/74/74474.svg" width="30px" height="30px"> Ad Pass</h1>';
         // hide login form and show register form
         // create some variables for styling
-        var inputStyles = "background:#fff;border: 1px solid white;width:90%;color:#fff;padding:5px;margin:5px;",
+        var inputStyles = "background:#fff;border: 1px solid white;width:90%;color:#000;padding:5px;margin:5px;",
           btnStyles = "background:#fff;border:none;width:80%;color:#129979;padding:5px;margin:15px 5px 5px 5px;border-radius: 15px",
           forgetStyles = "color:#fff;",
           labelStyles = "color: white; width: 100%;text-align: left;",
