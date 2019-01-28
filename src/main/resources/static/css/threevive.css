@@ -63,6 +63,8 @@
     -webkit-text-fill-color: transparent;
 }
 
+.inputContainer{background-color:#4DC7AB;display: inline-block;border-radius: 15px;padding-right: 10px; width:80%;}
+
 /* Desktop small */
 @media only screen and (max-width: 1182px) {
     #ViveButtons input[type="button"] {
