@@ -63,7 +63,7 @@
     -webkit-text-fill-color: transparent;
 }
 
-.inputContainer{background-color:#4DC7AB;display: inline-block;border-radius: 15px;padding-right: 10px; width:80%;}
+.inputContainer{background-color:#4DC7AB;display: inline-block;border-radius: 15px;padding-right: 10px;}
 
 /* Desktop small */
 @media only screen and (max-width: 1182px) {
@@ -80,6 +80,10 @@
     #popUpAdPassDiv{
         width: 60%;
     }
+    #ViveButtons input[type="button"] {
+    width:40% !important;
+    float:none !important;
+    }
 
 }
 
@@ -88,6 +92,10 @@
 
     #popUpAdPassDiv{
         width: 80%;
+    }
+
+    .inputContainer{
+        width: 95%;
     }
 
 }
