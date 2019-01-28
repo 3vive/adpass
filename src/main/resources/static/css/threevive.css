@@ -68,7 +68,7 @@
 /* Desktop small */
 @media only screen and (max-width: 1182px) {
     #ViveButtons input[type="button"] {
-    width:95% !important;
+    width:40% !important;
     float:none !important;
     }
 }
@@ -96,6 +96,10 @@
 
     .inputContainer{
         width: 95%;
+    }
+    #ViveButtons input[type="button"] {
+    width:95% !important;
+    float:none !important;
     }
 
 }
