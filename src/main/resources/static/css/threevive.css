@@ -56,7 +56,7 @@
 #walletBut {
     border-radius: 15px;
 }
-
+.paywallButtons{width: 100%;}
 .paywallTrunk {
     background: linear-gradient(to bottom, #888 0%, #fff 10%);
     -webkit-background-clip: text;
